@@ -310,3 +310,6 @@ column. Only the interpretation of a column (numeric, categorical, or
 text) can be forced.
 
 2. DateTime will be supported in a future release.
+
+3.特点说明，ParaText: 以2.5GB每秒的速度处理CSV文件：https://python.freelycode.com/contribution/detail/439
+
